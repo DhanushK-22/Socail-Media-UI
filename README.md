@@ -21,7 +21,7 @@ This repository contains a **Social Media Interface** design that was created us
 ## How to View the Design
 
 1. Open the design in Figma:
-   - [Figma Design Link](#) _(replace this with your actual link)_
+   - [Social media prototype](#) _(https://www.figma.com/proto/ZHeYVQqHhKvsuEyAClTbHm/Prototype?node-id=0-3&node-type=canvas&t=zmBNW7pSI4CGPSh3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)_
 
 2. Explore the different sections:
    - Home Feed
