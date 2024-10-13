@@ -21,11 +21,11 @@ This repository contains a **Social Media Interface** design that was created us
 ## How to View the Design
 
 1. Open the design in Figma:
-   - [Social media - prototype]((https://www.figma.com/proto/ZHeYVQqHhKvsuEyAClTbHm/Prototype?node-id=0-3&node-type=canvas&t=zmBNW7pSI4CGPSh3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+   - [Social media - prototype](https://www.figma.com/proto/ZHeYVQqHhKvsuEyAClTbHm/Prototype?node-id=0-3&node-type=canvas&t=zmBNW7pSI4CGPSh3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 
 
- - [Social media - wireframe]((https://www.figma.com/proto/Tl1cBSVvVt6mWyp2gYair5/wireframe?t=AUunTnv9Mqlg3dHt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-2)
+ - [Social media - wireframe](https://www.figma.com/proto/Tl1cBSVvVt6mWyp2gYair5/wireframe?t=AUunTnv9Mqlg3dHt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-2)
 
 
 2. Explore the different sections:
@@ -37,10 +37,8 @@ This repository contains a **Social Media Interface** design that was created us
 
 ## Screenshots
 
-Include a few screenshots to showcase the design:
-- Home Screen
-- Profile Screen
-- Messaging Interface
+![Home Feed](https://github.com/your-username/your-repo-name/blob/main/screenshots/home-feed.png)
+
 
 ## Contributing
 
