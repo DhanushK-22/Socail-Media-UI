@@ -21,14 +21,18 @@ This repository contains a **Social Media Interface** design that was created us
 ## How to View the Design
 
 1. Open the design in Figma:
-   - [Social media prototype](#) _(https://www.figma.com/proto/ZHeYVQqHhKvsuEyAClTbHm/Prototype?node-id=0-3&node-type=canvas&t=zmBNW7pSI4CGPSh3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)_
+   - [Social media - prototype]((https://www.figma.com/proto/ZHeYVQqHhKvsuEyAClTbHm/Prototype?node-id=0-3&node-type=canvas&t=zmBNW7pSI4CGPSh3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+
+
+ - [Social media - wireframe]((https://www.figma.com/proto/Tl1cBSVvVt6mWyp2gYair5/wireframe?t=AUunTnv9Mqlg3dHt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-2)
+
 
 2. Explore the different sections:
    - Home Feed
    - Profile Page
    - Messages
    - Notifications
-   - Post Creation
    - User Settings
 
 ## Screenshots
@@ -42,13 +46,9 @@ Include a few screenshots to showcase the design:
 
 If you'd like to contribute or suggest improvements, feel free to fork this repository and submit a pull request, or simply open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or feedback, feel free to contact me:
-- **Email**: your-email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: dhanushab2904@gmail.com
 
